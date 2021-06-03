@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland.  By the Commissioners of the Common-wealth of England for the Affairs of Ireland. Whereas the said Commissioners are informed, that many officers and souldiers who have faithfully served the Common-wealth in Ireland are seduced (by the insinuations of covetous minded persons who (for luckre sake) lye in wait to purchase the poor souldiers dearly earned wages) to make sale of their debenturs ...</title>
+            <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09285</idno><idno type="EEBO-CITATION">69648697</idno>
+  <idno type="VID">184948</idno>
+  <idno type="EEBO-PROQUEST">2240870127</idno>
+  
+            <idno type="OCLC"> 69648697</idno>
+            <idno type="STC">Wing I341G</idno>
+            <idno type="STC">ESTC R178603</idno>
+            <idno type="OCLC">69648697</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184948)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2881:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland.  By the Commissioners of the Common-wealth of England for the Affairs of Ireland. Whereas the said Commissioners are informed, that many officers and souldiers who have faithfully served the Common-wealth in Ireland are seduced (by the insinuations of covetous minded persons who (for luckre sake) lye in wait to purchase the poor souldiers dearly earned wages) to make sale of their debenturs ...</title>
+                  <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Anno Dom. 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Great Britain. --  Army --  Military life --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term type="genre_form">Broadsides --  Ireland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:184948:1"/>
+            <head>IRE-<figure>
+                  <figDesc>coat of arms of the Commonwealth of England, circa 1653</figDesc>
+               </figure>LAND.</head>
+            <head type="sub">By the Commissioners of the Common-wealth of ENGLAND for the Affairs of IRELAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the said Commissioners are informed, That many Officers and Souldiers who have faithfully ser<g ref="char:EOLhyphen"/>ved the <hi>Common-wealth in</hi> IRELAND are seduced (by the insinuations of covetous minded Persons who (for lucre sake) lye in wait to purchase the poor Souldiers dearly earned wages) to make Sale of their Debenturs, for very small and inconsiderable Sums of present Money, Whereby they deprive themselves of a future com<g ref="char:EOLhyphen"/>fortable subsistance, and wholy frustrate the bountiful intentions of those that are in Authority towards them, who (to the end the Souldiers being Disbanded might have a comfortable livelihood) have Ordered Lands for their Arrears at very low Rates, which they would not have done at the said Rates but in tenderness, and respect to the Souldiery, and in Order to Plant the Countrey with those poor creatures whom the Lord hath preserved in hardships and dangers, that they might enjoy the fruits of their Labour. And having had experience of the great wrongs and prejudice, which the <hi>Common-wealth</hi> &amp; the Souldiers suffered in <hi>England</hi> by Sale of Debenturs, whereby many Souldiers by their im<g ref="char:EOLhyphen"/>patience to stay for satisfaction in Land were impoverished, whilst others in the same condition with them, having patience to tarry, had due satisfaction in Lands, whereby they now support themselves &amp; Families. And it being in the intention of the said Commissi<g ref="char:EOLhyphen"/>oners, to put the Souldiers into Possession of the Lands due unto them for their Arrears with all possible expedition, and in the mean time to make the best provision they can for their present subsistance. And forasmuch as Debts and Claims of that nature, are not by Law transferrible without a special Act to Warrant the same, The said Commissioners therefore (by the advice and at the desire of the Councel of Officers on the behalf of the Souldiers) do hereby Order, That no Person or Persons who have served the <hi>Common-wealth</hi> in <hi>Ireland,</hi> and have or shall hereafter have their Accompts Stated, and Debenturs given them by the Commissioners appointed by Parliament for Stating the Accompts of the Souldiers in <hi>Ireland,</hi> for such Arrears as shall appear upon such Accompts, or by Com<g ref="char:EOLhyphen"/>position to be due unto them; shall from and after the Date hereof make Sale of, or Assign over his or their Debenturs, or any part thereof until the Parliament shall signifie their pleasure touching the same. And if any Person or Persons shall from and after the date hereof buy any of the said Debenturs (the <hi>Parliaments</hi> pleasure being not signified as aforesaid) the said sale &amp; bargains are hereby Declared to be Nul and void, and the Debenturs so bought not to be valid to charge the <hi>Common-wealth,</hi> or purchase Lands in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> with the same; And whereas the said Commissioners are informed, That several Debenturs that have been given out by the said Commissioners for Stating the said Accompts, have been of late sold at very low and inconsiderable Rates, to the impoverishing and a<g ref="char:EOLhyphen"/>buse of the poor Souldiers that sold them, and disparagement of the Publick security, and satisfaction appointed the Soldiers for their faithful Service; But in regard the said Sales were made before any Publick warning, or Declaration was held forth to prohibit Sales: It is hereby further Ordered, That the said Debenturs so bought with the Assignments of the same, together with the respective Rates or Considerations given for them, shall within Twenty days after Publication hereof, be Registred upon Oath with the Com<g ref="char:EOLhyphen"/>missioners of the Revenue of the Precinct wherein the Persons that bought the same respectively reside; (which Oath the said Com<g ref="char:EOLhyphen"/>missioners of the Revenue, or any two or more of them have hereby power to Administer) which Debenturs so sold, and Registred as aforesaid, shall be held valid for so much onely as hath been really, and without fraud given for the same, and no more; And in case any collusion or fraud shall be used in making Entrie of false Rates or vallues paid for such Debenturs, such Debenturs shall be forfeited to the <hi>Common-wealth,</hi> the one Moyetie for the use of the Person that shall discover the said false Entry, and the other Moye<g ref="char:EOLhyphen"/>tie for the relief of maimed Souldiers, and the poor Widdows and Orphans of Souldiers. And the Commissioners of the Re<g ref="char:EOLhyphen"/>venue in every respective Precinct, are hereby required, to return all such Entries which shall be made with them as aforesaid unto <hi>Thomas Herbert</hi> Esquire Register of Debenturs at his Office at <hi>Dublin,</hi> within fifteen days after the said Entrie is so made. And the Commander in cheif, and Commissioners of the Revenue in every respective Precinct are to cause this Declaration to be forthwith Published.</p>
+            <closer>
+               <dateline>DUBLIN <date>28. <hi>Iuly,</hi> 1653.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Charles Fleetwood.</hi>
+                     </item>
+                     <item>
+                        <hi>Edm. Ludlow.</hi>
+                     </item>
+                     <item>
+                        <hi>Miles Corbet.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Jones.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>
+               <hi>Ordered by the said</hi> Commissioners, <hi>That this</hi> Declaration <hi>be forthwith Printed and Published.</hi>
+            </p>
+            <closer>
+               <signed>Signed by Order, <hi>&amp;c.</hi> IO. HUGHES.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>¶ <hi>DƲBLIN, Printed by</hi> VVILLIAM BLADEN Anno Dom. 1653.</p>
+            <pb facs="tcp:184948:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
